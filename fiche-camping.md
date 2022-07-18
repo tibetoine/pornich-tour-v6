@@ -41,6 +41,7 @@
 - https://www.belairpornichet.fr/
 
 ### Lieu camping BelAir 
+- https://goo.gl/maps/2wSsgzJBVbktqrmPA
 
 ### Locations
 - 2 x Villa 3 chambres (6p) [352€ each] : https://www.youtube.com/watch?v=oDQi3_oeRiY&feature=emb_imp_woyt
