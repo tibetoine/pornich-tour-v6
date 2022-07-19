@@ -1,21 +1,27 @@
 # Camping Bel Air Pornichet
-## Rappel convives
-1. Cedric ROIGNANT
-2. Christelle VAIDIE
-3. Laurent BEAUVAL
-4. Guillaume THIERY
-5. Guillaume VANDENBOR
-6. Matthieu SALLAFRANQUE
-7. Robert TAING
-8. sebastien SALLE
-9. Thomas VILSALMON
-10. Laura GUILLOT
-11. Maxime CHANTEAU
-12. Antoine ROBERT
-13. (?) dougere alois
-14. (?) Sebastien HUAULME
-15. (?) arthur1393
-16. (?) kevin grosbois
+
+## Qui vient 100% sûr
+1.  Antoine
+2.  Mika
+3.  Max
+4.  Laura
+5.  Guigui 1
+6.  Guigui 2
+7.  Robert
+8.  Christelle
+9.  Matthieu
+10. Thomas
+
+## Jusqu'à combien on monte ? Qui on invite en + ?
+Cédric
+Laurent Beauval
+Sebastien Salle
+Sebastien Huaulme
+Dine
+Romain (Collègue de Mika, Max et Guigui 2)
+Mathilde (Copine du collègue susnommé)
+Manu (Pote de Max, si y a de la place)
+...
 
 ## Rappel des dates
 - **Du** : vendredi 23 septembre 2022
@@ -28,6 +34,8 @@
 - Baignades
 - Mangeades
 - Boivades
+
+## C'est quoi le thème de cette année ????? On en fait un ?
 
 ## Lieux à visiter
 - Le bidule : https://goo.gl/maps/6bBsJwizwwaGDx836
