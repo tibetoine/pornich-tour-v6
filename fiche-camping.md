@@ -67,3 +67,23 @@
 ###### Avis Max
 Ca peut être sympa même si j'ai du mal à imaginer l'ambiance pornich dans un camping d'un point de vue nuisances sonors. Un peu loin du bidule ça c'est pas grave ça se fait pour une soirée, la vraie question c'est la distance avec le pmu le plus prês. Le tarif ça reste correct même si plus cher que les autres années.
  
+## Propositions pour le dodo 2
+- https://www.airbnb.fr/rooms/24034833?check_out=2022-09-25&check_in=2022-09-23&adults=10&guests=10&s=42&unique_share_id=fefb1593-9df3-4304-8d32-70a5de8ad302&fbclid=IwAR2jdk7uzTSIEQaTcEucMcNIxMnuCg0dphiQpj8nBIJA3j1_4RfFW2YM1Tk&source_impression_id=p3_1658257830_i96VSyD0D5hQvDAq
+
+### Prix 
+
+- Prix total des locations : 987€
+  - 987 / 16 = 61,70 € par personne
+
+### Capacité couchages
+
+- 10 personnes
+
+### Trucs cools du logement
+- 2 minutes à pieds de la plage
+- Un jardin individuelle
+
+### Désavantages possibles
+- Visiblement à 30min du bidul
+- Visiblement à 30min du premier pmu aussi
+- La maison est normalement pour 10 personnes...
