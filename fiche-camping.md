@@ -13,14 +13,14 @@
 10. Thomas
 
 ## Jusqu'à combien on monte ? Qui on invite en + ?
-Cédric
-Laurent Beauval
-Sebastien Salle
-Sebastien Huaulme
-Dine
-Romain (Collègue de Mika, Max et Guigui 2)
-Mathilde (Copine du collègue susnommé)
-Manu (Pote de Max, si y a de la place)
+- Cédric
+- Laurent Beauval
+- Sebastien Salle
+- Sebastien Huaulme
+- Dine
+- Romain (Collègue de Mika, Max et Guigui 2)
+- Mathilde (Copine du collègue susnommé)
+- Manu (Pote de Max, si y a de la place)
 ...
 
 ## Rappel des dates
