@@ -13,6 +13,7 @@
 10. Baptiste (Présent uniquement la nuit du vendredi)
 11. Sebastien Huaulme
 12. Laurent Beauval (Présent que le vendredi soir)
+13. Cédric
 
 ## Dates
 - **Du** : vendredi 23 septembre 2022
