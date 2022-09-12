@@ -34,6 +34,7 @@ Prévoir:
 | Double    | 160x200   | A      | 1       |             |
 | Simple    | 90x190    | A      | 2       |             |
 | Double    | 140x190   | A      | 3       |             |
+| Simple    | 90x190    | A      | 3       |             |
 | Simple    | 90x190    | A      | 4       |             |
 | Simple    | 90x190    | A      | 4       |             |
 | Double    | 140x190   | B      | 5       |             |
