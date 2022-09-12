@@ -1,23 +1,23 @@
 # Camping Bel Air Pornichet
 
 ## Qui vient 100% sûr
-1.  Antoine
-2.  Mika
-3.  Max
-4.  Laura
-5.  Guigui 1
-6.  Guigui 2
-7.  Robert
-8.  Christelle
-9.  Matthieu
-10. Thomas
+1.  AAntoine
+2.  AMika
+3.  AMax
+4.  ALaura
+5.  AGuigui 1
+6.  Robert (Présent sur la journée du samedi)
+7.  AChristelle
+8.  AMatthieu
+9.  AThomas
+10. ABaptiste (Présent⸱e uniquement la nuit du vendredi)
+11. ASebastien Huaulme
+12. ALaurent Beauval
 
 ## Jusqu'à combien on monte ? Qui on invite en + ?
-- Cédric
-- Laurent Beauval
-- Sebastien Salle
-- Sebastien Huaulme
-- Dine
+- ?Cédric
+- ? Sebastien Salle
+- ? Dine
 - Romain (Collègue de Mika, Max et Guigui 2)
 - Mathilde (Copine du collègue susnommé)
 - Manu (Pote de Max, si y a de la place)
