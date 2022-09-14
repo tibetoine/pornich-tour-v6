@@ -66,4 +66,4 @@ En espérant que la lecture ces propositions vont nourrir votre imaginaire et vo
 impatience
 votre verdict sur le choix du plat vainqueur.
 
-* La cuisson dite à la Belge consiste à effectuer un premier bain de 5 a 6 minutes à 150° et un deuxième bain à 190° pendant 2 à 3 minutes.
+(*) La cuisson dite à la Belge consiste à effectuer un premier bain de 5 a 6 minutes à 150° et un deuxième bain à 190° pendant 2 à 3 minutes.
