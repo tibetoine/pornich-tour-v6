@@ -36,7 +36,7 @@ répondre à toutes les imaginations débordantes :
 - Viande Haché sauce tomates et poivrons
 - Émincé de poulet dans sa sauce pimentée au chorizo
 - Riz semi-complet croquant
-- Emmental Français rappé
+- Emmental Français râpé
 - Mozzarella di bufalla campana fondante
 
 Ce plat aura la vertu de rapprocher nos convives autour de la table pour partager un moment de convivialité
