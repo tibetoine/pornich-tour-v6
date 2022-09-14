@@ -16,7 +16,7 @@ Au menu une viande rouge, d'origine France garantie, saisie sur un barbecue au c
 les arômes et la texture fondante d'une viande saignante.
 
 Quoi de mieux pour accompagner cette merveille que de bonnes pommes de terre frites croustillante. Avec sa double
-cuisson, dite la cuisson à la belge, ces tubercules d'origine amérindienne révéleront une coque croustillante et un cœur
+cuisson, dite la cuisson à la belge*, ces tubercules d'origine amérindienne révéleront une coque croustillante et un cœur
 fondant à en faire chavirer les cœurs. 😍
 
 ---
@@ -65,3 +65,5 @@ disponible. Merci de vous signaler afin de prévoir les portions en conséquence
 En espérant que la lecture ces propositions vont nourrir votre imaginaire et vous faire saliver, nous attendons avec
 impatience
 votre verdict sur le choix du plat vainqueur.
+
+* La cuisson dite à la Belge consiste à effectuer un premier bain de 5 a 6 minutes à 150° et un deuxième bain à 190° pendant 2 à 3 minutes.
