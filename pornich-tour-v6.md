@@ -24,6 +24,16 @@
 31 avenue des roses 44380 Pornichet
 https://goo.gl/maps/QFiyGzbKJX2eXopV6
 
+
+## Repas
+- repas du vendredi soir - dehors 
+- repas du vendredi soir 4h du mat- pates carbo ou beurre
+- petit dej le samedi matin - brioche Nutella lait café 
+- repas le samedi midi - côte de bœuf/ frites 
+- repas le samedi soir - fajitas 
+- repas de 3h du mat samedi nuit - reste de fajitas et patte 
+- petit dej dimanche ? Idem matin précédent 
+- repas du dimanche midi ? Mc Do pour éponger !
 ### A prendre
 Prévoir:
 - des draps / duvets 
